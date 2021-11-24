@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rajshekhar-Reddy
 - 👀 I’m interested in ...Data Science and Anylise
 - 🌱 I’m currently learning ...Data science cource
-- 💞️ I’m looking to collaborate on ...Dara science
+- 💞️ I’m looking to collaborate on ...Data science
 - 📫 How to reach me ...My No-9916321056 & My mail id-rajreddydava@gmail.com
 
 <!---
