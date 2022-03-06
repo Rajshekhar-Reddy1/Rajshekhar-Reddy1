@@ -5,7 +5,8 @@
 - 📫 How to reach me ...My No-9916321056 & My mail id-rajreddydava@gmail.com
 -
 -  📫 How to reach me:
--  -https://twitter.com/Rajreddy22
+-  Twittwer:--https://twitter.com/Rajreddy22
+-  Linkdin:-https://www.linkedin.com/in/rajashekar-satyaram-58a11325/
 
 
 <!---
