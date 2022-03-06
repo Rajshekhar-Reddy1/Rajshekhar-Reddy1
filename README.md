@@ -2,11 +2,17 @@
 - 👀 I’m interested in ...Data Science and Anylise
 - 🌱 I’m currently learning ...Data science cource
 - 💞️ I’m looking to collaborate on ...Data science
-- 📫 How to reach me ...My No-9916321056 & My mail id-rajreddydava@gmail.com
+- 
 -
 -  📫 How to reach me:
--  Twittwer:--https://twitter.com/Rajreddy22
+-  
+-  Mobile:-9916321056
+-  Gmail📧rajreddydava@gmail.com
+-  Twitter:-https://twitter.com/Rajreddy22
 -  Linkdin:-https://www.linkedin.com/in/rajashekar-satyaram-58a11325/
+-  Facebook:-https://www.facebook.com/raj.reddy.5851
+-  Instagram:-https://www.instagram.com/rajreddydava/
+- 
 
 
 <!---
