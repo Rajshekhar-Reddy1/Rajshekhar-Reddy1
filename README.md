@@ -5,7 +5,7 @@
 - 📫 How to reach me ...My No-9916321056 & My mail id-rajreddydava@gmail.com
 -
 -  📫 How to reach me:
--  ![image](https://user-images.githubusercontent.com/87597168/156914437-6a3c4546-e666-47a5-a6d1-a4b8453833e4.png):-https://twitter.com/Rajreddy22
+-  -https://twitter.com/Rajreddy22
 
 
 <!---
