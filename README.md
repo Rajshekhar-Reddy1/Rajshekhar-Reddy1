@@ -12,11 +12,9 @@
 -  Linkdin:-https://www.linkedin.com/in/rajashekar-satyaram-58a11325/
 -  Facebook:-https://www.facebook.com/raj.reddy.5851
 -  Instagram:-https://www.instagram.com/rajreddydava/
--
-Rajshekhar-Reddy1/Rajshekhar-Reddy1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 
-
+TOOLS !!!!
+________________________________________________________________________________________________________________________________________________________
                                    |
 | MySQL          | ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
