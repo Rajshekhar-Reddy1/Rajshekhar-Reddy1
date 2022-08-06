@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rajashekhar-Reddy
-- 👀 I’m interested in ...Data Science and Anylise
+- 👀 I’m interested in ...Data Science and Analysis
 - 🌱 I’m currently learning ...Data science cource
 - 💞️ I’m looking to collaborate on ...Data science
 - 
