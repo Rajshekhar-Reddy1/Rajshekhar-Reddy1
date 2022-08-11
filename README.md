@@ -7,12 +7,13 @@
 -  📫 How to reach me:
 -  
 -  🤴:-9916321056
--  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  📧rajreddydava@gmail.com
--  Twitter:-https://twitter.com/Rajreddy22
--  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) :-https://www.linkedin.com/in/rajashekar-satyaram-58a11325/
--  ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)  :-https://www.facebook.com/raj.reddy.5851
--  ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)  :-https://www.instagram.com/rajreddydava/
-   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  :https://github.com/Rajshekhar-Reddy1/
+-  ![Gmail]      (https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  📧rajreddydava@gmail.com
+-  ![Twitter]    (https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white):-https://twitter.com/Rajreddy22
+-  ![LinkedIn]   (https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) :-https://www.linkedin.com/in/rajashekar-satyaram-58a11325/
+-  ![Facebook]   (https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)  :-https://www.facebook.com/raj.reddy.5851
+-  ![Instagram]  (https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)  :-https://www.instagram.com/rajreddydava/
+-  
+   ![GitHub]     (https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  :https://github.com/Rajshekhar-Reddy1/
 
 TOOLS !!!!
 ________________________________________________________________________________________________________________________________________________________
