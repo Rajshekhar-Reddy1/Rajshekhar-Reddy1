@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rajashekhar-Reddy
-- 👀 I’m interested in ...Data Science and Analysis
-- 🌱 I’m currently learning ...Data science cource
-- 💞️ I’m looking to collaborate on ...Data science
+- 👀 I’m interested in ...Data Science and  AI
+- 🌱 I’m Aspiring...Data science and AI
+- 💞️ I’m looking to collaborate on ...Data science AI projects 
 - 
 -
 -  📫 How to reach me:
